@@ -1,6 +1,3 @@
-# Created on 4/15/2020
-# Author @Amina Khalil
-# Amna-ak
 from turtles import *
 import turtle
 from random import *
