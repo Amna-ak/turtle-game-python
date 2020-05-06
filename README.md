@@ -1,4 +1,5 @@
 # turtle-game-python
+A simple turtle race game for beginners to learn.
 The game begins by asking the user for a bet amount and a turtle to bet on out of five.
 The game then begins. The program first draws the starting and finishing line, then initialize the turtles and stop for some time.
 Then race is started. The program moves the turtles forward randomly and keep tracks for winners.
